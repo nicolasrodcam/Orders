@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Orders.Share.Entities;
+using Microsoft.EntityFrameworkCore;
 using Orders.Share.Entities;
 
 namespace Orders.Backend.Data
